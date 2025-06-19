@@ -6,9 +6,9 @@
     "tech_stack": ["React", "JavaScript", "HTML", "CSS"],
     "link": "https://github.com/Xanderflux/blockchain-bridge",
     "live_link": "http://www.blockchainbridgeway.com/",
-    "image": "public/assets/images/projects/blockchainbridgeway.png",
+    "image": "",
     "impact": "Delivered a polished, accessible UI that improved agency visibility in the DeFi and NFT space.",
-    "tag": "web_app1"
+    "tag": "blockchainbridgeway"
   },
   {
     "id": 4,

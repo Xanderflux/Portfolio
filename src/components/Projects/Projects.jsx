@@ -28,7 +28,8 @@ const Projects = () => {
     web_app1: "/assets/images/projects/swagger1.png",
     data_analysis: "/assets/images/projects/yashowardhan-singh-cGot2jFpKIM-unsplash.jpg",
     data_analysis2: "/assets/images/projects/markus-winkler-IrRbSND5EUc-unsplash.jpg",
-    default: "/assets/images/526887.jpg"
+    default: "/assets/images/526887.jpg",
+    blockchainbridgeway: "/assets/images/projects/blockchainbridgeway.png",
   };
 
   return (
