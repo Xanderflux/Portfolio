@@ -29,7 +29,6 @@ const Projects = () => {
     data_analysis: "/assets/images/projects/yashowardhan-singh-cGot2jFpKIM-unsplash.jpg",
     data_analysis2: "/assets/images/projects/markus-winkler-IrRbSND5EUc-unsplash.jpg",
     default: "/assets/images/526887.jpg",
-    blockchainbridgeway: "/assets/images/projects/blockchainbridgeway.png",
   };
 
   return (
@@ -122,8 +121,8 @@ const Projects = () => {
                     </a>
                   ) : (
                     <span
-                      className={`flex items-center text-xs px-2 py-1 rounded bg-yellow-100 text-yellow-800 ${
-                        theme === 'dark' ? 'bg-yellow-800 text-yellow-100' : ''
+                      className={`flex items-center text-xs px-2 py-1 rounded  ${
+                        theme === 'dark' ? 'text-yellow-100 bg-yellow-800' : 'bg-yellow-100 text-yellow-800'
                       }`}
                       style={{ cursor: 'pointer' }}
                     >

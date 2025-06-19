@@ -6,9 +6,9 @@
     "tech_stack": ["React", "JavaScript", "HTML", "CSS"],
     "link": "https://github.com/Xanderflux/blockchain-bridge",
     "live_link": "http://www.blockchainbridgeway.com/",
-    "image": "",
+    "image": "/assets/images/projects/blockchainbridgeway.png",
     "impact": "Delivered a polished, accessible UI that improved agency visibility in the DeFi and NFT space.",
-    "tag": "blockchainbridgeway"
+    "tag": "web_app1"
   },
   {
     "id": 4,
@@ -50,7 +50,7 @@
     "tech_stack": ["Django", "Python", "JavaScript", "HTML", "CSS"],
     "link": "https://github.com/xanderflux/formatio",
     "live_link": "",
-    "image": "https://raw.githubusercontent.com/olayomipo/Formatio/main/static/img/formatio.png",
+    "image": "/assets/images/projects/formatio.png",
     "impact": "Offered fast, browser-based file conversion without third-party tools.",
     "tag": "web_app1"
   },
