@@ -137,7 +137,8 @@ const Hero = () => {
               </a>
               
               <a
-                href={bioData.resume_link}
+                href={bioData.resume_download_link}
+                download="Adesoye_Ademola_Resume.pdf"
                 target="_blank"
                 rel="noopener noreferrer"
                 className={`${
