@@ -1,0 +1,72 @@
+[
+  {
+    "id": 1,
+    "role": "Software Developer",
+    "company": "Airandx Global Services",
+    "location": "Lagos, Nigeria",
+    "start_date": "Mar 2024",
+    "end_date": "Present",
+    "description": "Built and maintained logistics-focused web applications with responsive UIs and cross-platform performance.",
+    "achievements": [
+      "Developed scalable React interfaces for enterprise logistics apps",
+      "Improved UI responsiveness and performance across devices",
+      "Integrated third-party services and APIs to extend platform functionality",
+      "Resolved critical UX issues, improving satisfaction and retention"
+    ],
+    "technologies": ["React", "JavaScript", "REST APIs", "Material UI"],
+    "link": "https://airandx.com",
+    "logo": "https://airandx.com/logo.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Developer",
+    "company": "Adroit Solutions Ltd",
+    "location": "Remote",
+    "start_date": "Feb 2022",
+    "end_date": "Aug 2023",
+    "description": "Contributed to regulatory platforms and compliance tools for top Nigerian banks like Union, Fidelity, and Coronation.",
+    "achievements": [
+      "Developed core backend features for RadarPro, an LLM-enhanced compliance screening tool",
+      "Automated CTR/STR reporting in XML format across financial platforms",
+      "Reduced report generation time by 50% through backend automation",
+      "Delivered database-agnostic systems with secure performance at scale"
+    ],
+    "technologies": ["Python", "Django", "Pandas", "SQL", "HTML", "JavaScript"],
+    "link": "https://www.adroitconsulting.com.ng",
+    "logo": "https://www.adroitconsulting.com.ng/assets/images/logo.png"
+  },
+  {
+    "id": 3,
+    "role": "Freelance Software Developer",
+    "company": "Self-Employed",
+    "location": "Remote",
+    "start_date": "Nov 2022",
+    "end_date": "Jan 2025",
+    "description": "Delivered full-stack solutions across industries including real estate, education, and Web3.",
+    "achievements": [
+      "Built and deployed full-stack applications using React, Node.js, and Django",
+      "Developed BlockchainBridgeWay’s Web3 agency site with a polished React frontend",
+      "Consulted on architecture for scalable, maintainable client systems"
+    ],
+    "technologies": ["React", "Node.js", "Django", "JavaScript", "Material UI"],
+    "link": "https://www.blockchainbridgeway.com",
+    "logo": "https://www.blockchainbridgeway.com/logo.svg"
+  },
+  {
+    "id": 4,
+    "role": "Intern Developer",
+    "company": "HNG Tech",
+    "location": "Remote",
+    "start_date": "Jul 2021",
+    "end_date": "Dec 2021",
+    "description": "Completed a real-world internship focused on agile product development and version control practices.",
+    "achievements": [
+      "Contributed to weekly sprints using React and RESTful APIs",
+      "Practiced Git workflows, team-based version control, and code reviews",
+      "Shipped features and bug fixes across team projects in a remote environment"
+    ],
+    "technologies": ["React", "JavaScript", "Git", "REST APIs"],
+    "link": "https://internship.zuri.team/",
+    "logo": "https://internship.zuri.team/static/media/logo.36d2d48f.svg"
+  }
+]

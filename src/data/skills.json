@@ -1,0 +1,59 @@
+{
+  "programming_languages": [
+    { "name": "JavaScript", "level": "Expert", "years": 5 },
+    { "name": "Python", "level": "Expert", "years": 4 },
+    { "name": "TypeScript", "level": "Advanced", "years": 3 },
+    { "name": "SQL", "level": "Advanced", "years": 4 },
+    { "name": "C", "level": "Intermediate", "years": 2 },
+    { "name": "Java", "level": "Intermediate", "years": 2 },
+    { "name": "Bash", "level": "Intermediate", "years": 2 },
+    { "name": "HTML/CSS", "level": "Expert", "years": 5 }
+  ],
+  "frameworks_libraries": [
+    { "name": "React", "level": "Expert", "years": 4 },
+    { "name": "Redux", "level": "Advanced", "years": 3 },
+    { "name": "Node.js", "level": "Advanced", "years": 4 },
+    { "name": "Express.js", "level": "Advanced", "years": 4 },
+    { "name": "Flask", "level": "Intermediate", "years": 2 },
+    { "name": "Django", "level": "Advanced", "years": 3 },
+    { "name": "Django REST Framework", "level": "Advanced", "years": 3 },
+    { "name": "Tailwind CSS", "level": "Intermediate", "years": 2 },
+    { "name": "jQuery", "level": "Advanced", "years": 4 }
+  ],
+  "databases": [
+    { "name": "MongoDB", "level": "Advanced", "years": 4 },
+    { "name": "PostgreSQL", "level": "Advanced", "years": 3 },
+    { "name": "MySQL", "level": "Advanced", "years": 3 },
+    { "name": "Redis", "level": "Intermediate", "years": 2 }
+  ],
+  "tools_platforms": [
+    { "name": "Git", "level": "Expert", "years": 5 },
+    { "name": "GitHub", "level": "Expert", "years": 5 },
+    { "name": "Docker", "level": "Advanced", "years": 3 },
+    { "name": "AWS", "level": "Advanced", "years": 3 },
+    { "name": "Linux", "level": "Advanced", "years": 4 },
+    { "name": "CI/CD", "level": "Advanced", "years": 3 },
+    { "name": "Webpack", "level": "Intermediate", "years": 2 }
+  ],
+  "data_analysis": [
+    { "name": "Pandas", "level": "Advanced", "years": 3 },
+    { "name": "Matplotlib", "level": "Advanced", "years": 3 },
+    { "name": "Seaborn", "level": "Advanced", "years": 2 },
+    { "name": "Data Analysis", "level": "Expert", "years": 3 }
+  ],
+  "apis_integrations": [
+    { "name": "Stripe API", "level": "Advanced", "years": 2 },
+    { "name": "RESTful APIs", "level": "Expert", "years": 4 },
+    { "name": "FastAPI", "level": "Intermediate", "years": 1 }
+  ],
+  "soft_skills": [
+    "Team Leadership",
+    "Problem Solving",
+    "Project Management",
+    "Agile Methodology",
+    "Client Communication",
+    "Teaching",
+    "Teamwork",
+    "Technical Documentation"
+  ]
+}

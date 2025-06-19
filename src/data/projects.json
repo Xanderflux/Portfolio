@@ -1,0 +1,140 @@
+[
+  {
+    "id": 1,
+    "title": "BlockchainBridgeWay – Web3 Agency Website",
+    "description": "Developed the frontend of a responsive React website for a Web3 agency showcasing services like strategy, branding, and community management.",
+    "tech_stack": ["React", "JavaScript", "HTML", "CSS"],
+    "link": "https://github.com/Xanderflux/blockchain-bridge",
+    "live_link": "http://www.blockchainbridgeway.com/",
+    "image": "public/assets/images/projects/blockchainbridgeway.png",
+    "impact": "Delivered a polished, accessible UI that improved agency visibility in the DeFi and NFT space.",
+    "tag": "web_app1"
+  },
+  {
+    "id": 4,
+    "title": "BioKinetica – Microbial Kinetics Analysis",
+    "description": "Analyzed fermentation data using biokinetic models and visualized microbial growth, bioflocculant production, and substrate usage.",
+    "tech_stack": ["Python", "Pandas", "Matplotlib"],
+    "link": "https://github.com/xanderflux/biokinetica",
+    "live_link": "https://colab.research.google.com/github/Xanderflux/BioKinetica/blob/main/index.ipynb",
+    "image": "",
+    "impact": "Enabled optimization of fermentation processes and improved substrate efficiency.",
+    "tag": "data_analysis2"
+  },
+  {
+    "id": 5,
+    "title": "CatalystInsights – Catalysis Data Analysis",
+    "description": "Processed catalysis experiment data to evaluate catalyst performance and emissions reduction with advanced visualizations.",
+    "tech_stack": ["Python", "Pandas", "Seaborn", "Matplotlib"],
+    "link": "https://github.com/xanderflux/CatalystInsights",
+    "live_link": "https://colab.research.google.com/github/Xanderflux/CatalystInsights/blob/main/index.ipynb",
+    "image": "",
+    "impact": "Provided actionable insights for catalyst selection and process design improvements.",
+    "tag": "data_analysis"
+  },
+  {
+    "id": 8,
+    "title": "Employee Attrition Analysis – HR Analytics",
+    "description": "Analyzed HR datasets to identify attrition drivers and offered actionable strategies with visual reports and presentation slides.",
+    "tech_stack": ["Python", "Pandas", "Seaborn", "Matplotlib", "PowerPoint"],
+    "link": "https://github.com/xanderflux/hr-analytics-attrition",
+    "live_link": "https://colab.research.google.com/github/Xanderflux/hr-analytics-attrition/blob/main/index.ipynb",
+    "image": "",
+    "impact": "Revealed key turnover patterns and recommended HR policy improvements.",
+    "tag": "data_analysis2"
+  },
+  {
+    "id": 9,
+    "title": "Formatio – File Conversion Web App",
+    "description": "Built a Django-based web app that converts files across formats like Excel, JSON, XML, PDF, and CSV.",
+    "tech_stack": ["Django", "Python", "JavaScript", "HTML", "CSS"],
+    "link": "https://github.com/xanderflux/formatio",
+    "live_link": "",
+    "image": "https://raw.githubusercontent.com/olayomipo/Formatio/main/static/img/formatio.png",
+    "impact": "Offered fast, browser-based file conversion without third-party tools.",
+    "tag": "web_app1"
+  },
+  {
+    "id": 10,
+    "title": "Image Classifier – ML-Based Image Prediction App",
+    "description": "Developed a machine learning-powered web app using TensorFlow and Django to classify images based on pre-trained models.",
+    "tech_stack": ["Python", "TensorFlow", "Django", "HTML", "CSS"],
+    "link": "https://github.com/Xanderflux/Image-Prediction",
+    "live_link": "",
+    "image": "",
+    "impact": "Enabled users to upload images and receive real-time predictions, demonstrating ML model deployment in a web interface.",
+    "tag": "web_app2"
+  },
+  {
+    "id": 3,
+    "title": "CTR/STR Reports – Regulatory Reporting System",
+    "description": "Created an XML-based reporting system for compliance teams to automatically generate CTR and STR reports based on transaction triggers.",
+    "tech_stack": [
+      "Python",
+      "Django",
+      "Pandas",
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "link": "",
+    "live_link": "",
+    "image": "/assets/images/projects/istockphoto-489429244-612x612.jpg",
+    "impact": "Simplified compliance reporting workflows and improved scalability across platforms.",
+    "tag": "web_app1"
+  },
+  {
+    "id": 2,
+    "title": "RadarPro – Compliance Screening Tool (LLM-Enhanced)",
+    "description": "Built backend features for a compliance tool that analyzes transaction data and automates reporting workflows for financial institutions.",
+    "tech_stack": [
+      "Python",
+      "Pandas",
+      "Django",
+      "React",
+      "JavaScript",
+      "HTML",
+      "CSS"
+    ],
+    "link": "",
+    "live_link": "https://radarpro.netlify.app/",
+    "image": "https://radarpro.netlify.app/static/media/logo3.354baa7a.jpeg",
+    "impact": "Reduced report generation time by 50% while supporting cross-database deployments.",
+    "tag": "web_app1"
+  },
+  {
+    "id": 6,
+    "title": "DataForge – Synthetic Data Generator Web App",
+    "description": "Built a Django app that allows users to generate customizable synthetic datasets in multiple formats for testing and prototyping.",
+    "tech_stack": ["Python", "Django", "DRF", "HTML"],
+    "link": "https://github.com/xanderflux/DataForge",
+    "live_link": "",
+    "image": "",
+    "impact": "Streamlined test data generation for developers and QA teams.",
+    "tag": "web_app2"
+  },
+  {
+    "id": 7,
+    "title": "E-Commerce Backend with Stripe API",
+    "description": "Created a Node.js backend with product endpoints, JWT-based authentication, and Stripe-powered payment integration.",
+    "tech_stack": ["Node.js", "Express", "MongoDB", "Stripe API", "JavaScript"],
+    "link": "https://github.com/xanderflux/E-Commerce-Backend",
+    "live_link": "",
+    "image": "",
+    "impact": "Enabled secure, real-world payment flows for e-commerce applications.",
+    "tag": "web_app1"
+  },
+
+  {
+    "id": 11,
+    "title": "URL Shortener API with TypeScript",
+    "description": "Developed a backend API using Node.js and TypeScript for shortening and redirecting URLs, with validation and tracking features.",
+    "tech_stack": ["TypeScript", "Node.js", "MongoDB"],
+    "link": "https://github.com/xanderflux/url-shortener",
+    "live_link": "",
+    "image": "",
+    "impact": "Enabled efficient link shortening and redirection for web applications.",
+    "tag": "web_app1"
+  }
+]

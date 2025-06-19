@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Backend Shorts Specialization",
+    "issuer": "ALX Africa",
+    "date": "2023-11",
+    "description": "Specialized program on backend fundamentals, covering APIs, databases, and system design with real-world projects.",
+    "url": "https://savanna.alxafrica.com/certificates/PR8ypEFZCH",
+    "logo": "https://pbs.twimg.com/profile_images/1604827784304349184/BkJ_MjRJ_400x400.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Intermediate SQL",
+    "issuer": "DataCamp",
+    "date": "2025-04",
+    "description": "Hands-on course focused on advanced SQL queries, joins, subqueries, and aggregate functions.",
+    "url": "https://www.datacamp.com/statement-of-accomplishment/course/2cc4a9de6f2425f660fe6513a285f3a52057c911?raw=1",
+    "logo": "https://cdn.worldvectorlogo.com/logos/datacamp.svg"
+  },
+  {
+    "id": 3,
+    "name": "Intermediate Git",
+    "issuer": "DataCamp",
+    "date": "2025-02",
+    "description": "Covered branching strategies, rebasing, stashing, and collaborative Git workflows.",
+    "url": "https://www.datacamp.com/statement-of-accomplishment/course/0ea727da1bea8699269ac1925a54b2dd3fd55080?raw=1",
+    "logo": "https://cdn.worldvectorlogo.com/logos/datacamp.svg"
+  },
+  {
+    "id": 4,
+    "name": "Introduction to Git",
+    "issuer": "DataCamp",
+    "date": "2024-12",
+    "description": "Introduction to version control concepts including commits, branches, and remote repositories.",
+    "url": "https://www.datacamp.com/statement-of-accomplishment/course/f19b0584edf2cc6171f1e227c8f0832e339f8fdf?raw=1",
+    "logo": "https://cdn.worldvectorlogo.com/logos/datacamp.svg"
+  },
+  {
+    "id": 5,
+    "name": "Introduction to GitHub Concepts",
+    "issuer": "DataCamp",
+    "date": "2024-12",
+    "description": "Fundamentals of GitHub usage including repositories, pull requests, issues, and collaboration workflows.",
+    "url": "https://www.datacamp.com/statement-of-accomplishment/course/9833d00fbfd3318740d16d5a11ed03a5c20b5540?raw=1",
+    "logo": "https://cdn.worldvectorlogo.com/logos/datacamp.svg"
+  },
+  {
+    "id": 6,
+    "name": "Introduction to Shell",
+    "issuer": "DataCamp",
+    "date": "2024-12",
+    "description": "Basics of shell scripting, command-line operations, and navigation using Bash.",
+    "url": "https://www.datacamp.com/statement-of-accomplishment/course/b068852857ef4bd5e820a9c19b2485c809261395?raw=1",
+    "logo": "https://cdn.worldvectorlogo.com/logos/datacamp.svg"
+  }
+]
