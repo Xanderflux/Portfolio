@@ -26,6 +26,18 @@ const Navbar = () => {
     setIsMenuOpen(!isMenuOpen);
   };
 
+  useEffect(() => {
+  if (isMenuOpen) {
+    document.body.classList.add('no-scroll');
+  } else {
+    document.body.classList.remove('no-scroll');
+  }
+
+    // Cleanup on unmount
+    return () => document.body.classList.remove('no-scroll');
+  }, [isMenuOpen]);
+
+
   // Close menu on item click for mobile
   const handleMenuItemClick = () => {
     if (isMenuOpen) setIsMenuOpen(false);
