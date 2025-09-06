@@ -2,10 +2,35 @@
   {
     "id": 1,
     "role": "Software Developer",
+    "company": "MamiMarkets Inc.",
+    "location": "Canada · Remote",
+    "start_date": "Jun 2025",
+    "end_date": "Present",
+    "description": "Contributing to the growth of MamiMarkets' e-commerce platform by improving vendor tools, enhancing usability, and ensuring platform reliability.",
+    "achievements": [
+      "Developed a modern store management dashboard with reusable React/Next.js components, enabling vendors to access sales insights faster",
+      "Built and integrated dynamic sitemap features, improving SEO visibility and ensuring accurate indexing",
+      "Implemented product filters, responsive image galleries, and SCSS-driven UI improvements to enhance customer experience",
+      "Aligned frontend with evolving backend APIs, reducing vendor onboarding errors and support issues"
+    ],
+    "technologies": [
+      "React",
+      "Next.js",
+      "TypeScript",
+      "SCSS",
+      "API Integration",
+      "GitHub"
+    ],
+    "link": "https://mamimarkets.com",
+    "logo": "https://mamimarkets.com/logo.png"
+  },
+  {
+    "id": 2,
+    "role": "Software Developer",
     "company": "Airandx Global Services",
     "location": "Lagos, Nigeria",
     "start_date": "Mar 2024",
-    "end_date": "Present",
+    "end_date": "Jun 2025",
     "description": "Built and maintained logistics-focused web applications with responsive UIs and cross-platform performance.",
     "achievements": [
       "Developed scalable React interfaces for enterprise logistics apps",
